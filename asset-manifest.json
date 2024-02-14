@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CliqPack/static/css/main.073c9b0a.css",
-    "main.js": "/CliqPack/static/js/main.d8ef0467.js",
+    "main.js": "/CliqPack/static/js/main.dc0dd599.js",
     "static/js/787.370a02a3.chunk.js": "/CliqPack/static/js/787.370a02a3.chunk.js",
     "static/media/logo.svg": "/CliqPack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CliqPack/index.html",
     "main.073c9b0a.css.map": "/CliqPack/static/css/main.073c9b0a.css.map",
-    "main.d8ef0467.js.map": "/CliqPack/static/js/main.d8ef0467.js.map",
+    "main.dc0dd599.js.map": "/CliqPack/static/js/main.dc0dd599.js.map",
     "787.370a02a3.chunk.js.map": "/CliqPack/static/js/787.370a02a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d8ef0467.js"
+    "static/js/main.dc0dd599.js"
   ]
 }
