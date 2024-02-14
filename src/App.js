@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Imran Ahmed Noyon !!
+          Lets Learn DevOps Together.... !!
         </a>
       </header>
     </div>
